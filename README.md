@@ -1,3 +1,8 @@
+The Application is hosted on Render.
+Follow the link below...
+https://tictactoe-46tv.onrender.com
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
