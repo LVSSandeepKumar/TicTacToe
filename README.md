@@ -1,7 +1,63 @@
-The Application is hosted on Render.
-Follow the link below...
-https://tictactoe-46tv.onrender.com
+# Tic Tac Toe
 
+## Overview
+This is a Tic Tac Toe game application built using HTML, CSS, and ReactJS. The game allows two players to compete against each other in the classic Tic Tac Toe format.
+
+## Table of Contents
+1. [Features](#features)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [File Structure](#file-structure)
+5. [Deployment](#deployment)
+6. [Key Coding Takeaways](#key-coding-takeaways)
+7. [Contributing](#contributing)
+8. [Acknowledgements](#acknowledgements)
+
+## Features
+- Classic Tic Tac Toe gameplay
+- Responsive design
+- User-friendly interface
+
+## Installation
+### Prerequisites
+- A web browser (e.g., Google Chrome, Firefox)
+
+### Steps
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/LVSSandeepKumar/TicTacToe.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd TicTacToe
+    ```
+3. Open `index.html` in your web browser to start the game:
+    ```sh
+    open index.html
+    ```
+
+## Usage
+Open `index.html` in a web browser to start playing Tic Tac Toe. Two players can take turns clicking on the grid to place their markers (X or O).
+
+## File Structure
+The file structure includes:
+- **index.html**: The main HTML file.
+- **script.js**: The JavaScript file containing the game logic.
+- **style.css**: The CSS file for styling the game.
+
+## Deployment
+This project is deployed at [Tic Tac Toe on Render](https://tictactoe-46tv.onrender.com).
+
+## Key Coding Takeaways
+- **DOM Manipulation**: Efficient use of JavaScript to update the DOM for interactive gameplay.
+- **Event Handling**: Implementation of event listeners for user interactions.
+- **CSS Styling**: Use of CSS for a clean and responsive design.
+
+## Contributing
+Contributions are welcome! Please fork this repository and submit a pull request.
+
+## Acknowledgements
+- Built using HTML, CSS, and ReactJS.
 
 # Getting Started with Create React App
 
